@@ -14,13 +14,13 @@ error UNHANDLED EXCEPTION
   Error: connect ECONNREFUSED 127.0.0.1:3000
 
 error Command failed with exit code 1.
-```
+```````
 
-1. Fork the repo
-2. Clone locally
+1. Fork the repository.
+2. Clone locally.
 3. `yarn install`
 4. `git checkout -b <your-branch-name>`
 5. `yarn develop` (Be sure you have `freeCodeCamp` running locally as well)
-6. Make your changes
-7. Make a PR
-8. Bask in the glory of your accomplishments
+6. Make your changes to rhe existing one.
+7. Make a PR(Pull equest).
+8. Bask in the glory of your accomplishments.
